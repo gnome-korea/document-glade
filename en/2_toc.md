@@ -6,3 +6,4 @@ Table of Contents
 4. Signals
 5. Use with code
 6. Example
+7. Appendix
